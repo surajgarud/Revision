@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data Structure", "Data Structure\Data Structure.csproj", "{7E7DB746-208D-4EB1-BF87-C11C8211894A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stack", "Stack\Stack.csproj", "{A5BB34B6-0AC4-4E10-8537-FDA43100279A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Queue", "Queue\Queue.csproj", "{5263F3F6-E95E-4BD5-B42C-E0FFA2187B79}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E7DB746-208D-4EB1-BF87-C11C8211894A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E7DB746-208D-4EB1-BF87-C11C8211894A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E7DB746-208D-4EB1-BF87-C11C8211894A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E7DB746-208D-4EB1-BF87-C11C8211894A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5BB34B6-0AC4-4E10-8537-FDA43100279A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5BB34B6-0AC4-4E10-8537-FDA43100279A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5BB34B6-0AC4-4E10-8537-FDA43100279A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5BB34B6-0AC4-4E10-8537-FDA43100279A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5263F3F6-E95E-4BD5-B42C-E0FFA2187B79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5263F3F6-E95E-4BD5-B42C-E0FFA2187B79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5263F3F6-E95E-4BD5-B42C-E0FFA2187B79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5263F3F6-E95E-4BD5-B42C-E0FFA2187B79}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {770A7BE5-E2B9-46C7-9935-040ED10D25AB}
+	EndGlobalSection
+EndGlobal

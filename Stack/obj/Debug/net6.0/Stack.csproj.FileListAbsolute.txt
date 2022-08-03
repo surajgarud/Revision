@@ -1,0 +1,15 @@
+C:\Users\suraj\source\Revision\Data Structure\Stack\bin\Debug\net6.0\Stack.exe
+C:\Users\suraj\source\Revision\Data Structure\Stack\bin\Debug\net6.0\Stack.deps.json
+C:\Users\suraj\source\Revision\Data Structure\Stack\bin\Debug\net6.0\Stack.runtimeconfig.json
+C:\Users\suraj\source\Revision\Data Structure\Stack\bin\Debug\net6.0\Stack.dll
+C:\Users\suraj\source\Revision\Data Structure\Stack\bin\Debug\net6.0\Stack.pdb
+C:\Users\suraj\source\Revision\Data Structure\Stack\obj\Debug\net6.0\Stack.csproj.AssemblyReference.cache
+C:\Users\suraj\source\Revision\Data Structure\Stack\obj\Debug\net6.0\Stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suraj\source\Revision\Data Structure\Stack\obj\Debug\net6.0\Stack.AssemblyInfoInputs.cache
+C:\Users\suraj\source\Revision\Data Structure\Stack\obj\Debug\net6.0\Stack.AssemblyInfo.cs
+C:\Users\suraj\source\Revision\Data Structure\Stack\obj\Debug\net6.0\Stack.csproj.CoreCompileInputs.cache
+C:\Users\suraj\source\Revision\Data Structure\Stack\obj\Debug\net6.0\Stack.dll
+C:\Users\suraj\source\Revision\Data Structure\Stack\obj\Debug\net6.0\refint\Stack.dll
+C:\Users\suraj\source\Revision\Data Structure\Stack\obj\Debug\net6.0\Stack.pdb
+C:\Users\suraj\source\Revision\Data Structure\Stack\obj\Debug\net6.0\Stack.genruntimeconfig.cache
+C:\Users\suraj\source\Revision\Data Structure\Stack\obj\Debug\net6.0\ref\Stack.dll
