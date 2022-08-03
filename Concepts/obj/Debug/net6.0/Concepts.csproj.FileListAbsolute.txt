@@ -1,0 +1,15 @@
+C:\Users\suraj\source\repos\Concepts\Concepts\bin\Debug\net6.0\Concepts.exe
+C:\Users\suraj\source\repos\Concepts\Concepts\bin\Debug\net6.0\Concepts.deps.json
+C:\Users\suraj\source\repos\Concepts\Concepts\bin\Debug\net6.0\Concepts.runtimeconfig.json
+C:\Users\suraj\source\repos\Concepts\Concepts\bin\Debug\net6.0\Concepts.dll
+C:\Users\suraj\source\repos\Concepts\Concepts\bin\Debug\net6.0\Concepts.pdb
+C:\Users\suraj\source\repos\Concepts\Concepts\obj\Debug\net6.0\Concepts.csproj.AssemblyReference.cache
+C:\Users\suraj\source\repos\Concepts\Concepts\obj\Debug\net6.0\Concepts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suraj\source\repos\Concepts\Concepts\obj\Debug\net6.0\Concepts.AssemblyInfoInputs.cache
+C:\Users\suraj\source\repos\Concepts\Concepts\obj\Debug\net6.0\Concepts.AssemblyInfo.cs
+C:\Users\suraj\source\repos\Concepts\Concepts\obj\Debug\net6.0\Concepts.csproj.CoreCompileInputs.cache
+C:\Users\suraj\source\repos\Concepts\Concepts\obj\Debug\net6.0\Concepts.dll
+C:\Users\suraj\source\repos\Concepts\Concepts\obj\Debug\net6.0\refint\Concepts.dll
+C:\Users\suraj\source\repos\Concepts\Concepts\obj\Debug\net6.0\Concepts.pdb
+C:\Users\suraj\source\repos\Concepts\Concepts\obj\Debug\net6.0\Concepts.genruntimeconfig.cache
+C:\Users\suraj\source\repos\Concepts\Concepts\obj\Debug\net6.0\ref\Concepts.dll
