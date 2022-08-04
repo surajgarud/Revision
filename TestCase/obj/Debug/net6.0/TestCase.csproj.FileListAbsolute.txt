@@ -1,0 +1,15 @@
+C:\Users\suraj\source\Revision\TestCase\TestCase\bin\Debug\net6.0\TestCase.exe
+C:\Users\suraj\source\Revision\TestCase\TestCase\bin\Debug\net6.0\TestCase.deps.json
+C:\Users\suraj\source\Revision\TestCase\TestCase\bin\Debug\net6.0\TestCase.runtimeconfig.json
+C:\Users\suraj\source\Revision\TestCase\TestCase\bin\Debug\net6.0\TestCase.dll
+C:\Users\suraj\source\Revision\TestCase\TestCase\bin\Debug\net6.0\TestCase.pdb
+C:\Users\suraj\source\Revision\TestCase\TestCase\obj\Debug\net6.0\TestCase.csproj.AssemblyReference.cache
+C:\Users\suraj\source\Revision\TestCase\TestCase\obj\Debug\net6.0\TestCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suraj\source\Revision\TestCase\TestCase\obj\Debug\net6.0\TestCase.AssemblyInfoInputs.cache
+C:\Users\suraj\source\Revision\TestCase\TestCase\obj\Debug\net6.0\TestCase.AssemblyInfo.cs
+C:\Users\suraj\source\Revision\TestCase\TestCase\obj\Debug\net6.0\TestCase.csproj.CoreCompileInputs.cache
+C:\Users\suraj\source\Revision\TestCase\TestCase\obj\Debug\net6.0\TestCase.dll
+C:\Users\suraj\source\Revision\TestCase\TestCase\obj\Debug\net6.0\refint\TestCase.dll
+C:\Users\suraj\source\Revision\TestCase\TestCase\obj\Debug\net6.0\TestCase.pdb
+C:\Users\suraj\source\Revision\TestCase\TestCase\obj\Debug\net6.0\TestCase.genruntimeconfig.cache
+C:\Users\suraj\source\Revision\TestCase\TestCase\obj\Debug\net6.0\ref\TestCase.dll
