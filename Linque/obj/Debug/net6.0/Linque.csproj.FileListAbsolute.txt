@@ -1,0 +1,15 @@
+C:\Users\suraj\source\Revision\Linque\Linque\bin\Debug\net6.0\Linque.exe
+C:\Users\suraj\source\Revision\Linque\Linque\bin\Debug\net6.0\Linque.deps.json
+C:\Users\suraj\source\Revision\Linque\Linque\bin\Debug\net6.0\Linque.runtimeconfig.json
+C:\Users\suraj\source\Revision\Linque\Linque\bin\Debug\net6.0\Linque.dll
+C:\Users\suraj\source\Revision\Linque\Linque\bin\Debug\net6.0\Linque.pdb
+C:\Users\suraj\source\Revision\Linque\Linque\obj\Debug\net6.0\Linque.csproj.AssemblyReference.cache
+C:\Users\suraj\source\Revision\Linque\Linque\obj\Debug\net6.0\Linque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suraj\source\Revision\Linque\Linque\obj\Debug\net6.0\Linque.AssemblyInfoInputs.cache
+C:\Users\suraj\source\Revision\Linque\Linque\obj\Debug\net6.0\Linque.AssemblyInfo.cs
+C:\Users\suraj\source\Revision\Linque\Linque\obj\Debug\net6.0\Linque.csproj.CoreCompileInputs.cache
+C:\Users\suraj\source\Revision\Linque\Linque\obj\Debug\net6.0\Linque.dll
+C:\Users\suraj\source\Revision\Linque\Linque\obj\Debug\net6.0\refint\Linque.dll
+C:\Users\suraj\source\Revision\Linque\Linque\obj\Debug\net6.0\Linque.pdb
+C:\Users\suraj\source\Revision\Linque\Linque\obj\Debug\net6.0\Linque.genruntimeconfig.cache
+C:\Users\suraj\source\Revision\Linque\Linque\obj\Debug\net6.0\ref\Linque.dll
